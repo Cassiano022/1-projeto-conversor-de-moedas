@@ -64,7 +64,7 @@ function changeCurrency() {
         currencyImage.src = "./assets/USD.jpg";
     } else if (currencySelect.value === "EUR") {
         currencyName.innerHTML = "Euro";
-        currencyImage.src = "./assets/euro.jpg";
+        currencyImage.src = "./assets/EURO.jpg";
     } else if (currencySelect.value === "GBP") {
         currencyName.innerHTML = "Libra";
         currencyImage.src = "./assets/libra1.jpg";
