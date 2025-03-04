@@ -91,11 +91,11 @@ function changeCurrency() {
             break;
         case "BTC":
             currencyName.innerHTML = "Bitcoin";
-            currencyImage.src = "./assets/bitcoin 1.jpg";
+            currencyImage.src = "./assets/bitcoin1.jpg";
             break;
         case "GBP":
             currencyName.innerHTML = "Libra Esterlina";
-            currencyImage.src = "./assets/libra 1.jpg";
+            currencyImage.src = "./assets/libra1.jpg";
             break;
     }
 
